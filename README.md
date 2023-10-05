@@ -24,6 +24,7 @@ Collaboration between space agencies, researchers, and technology developers to 
 # Into The Future:
 ## What will your idea change?
 It will facilitate informed decision-making, improve space weather forecasting, and contribute to a safer and more prepared approach to potential space weather impacts.
+![Magnetic Reconnection](blob:https://web.whatsapp.com/b3d7a521-94e2-4f42-a54b-ea2e74f74003)
 ## What can your solution do for the people?
 Our solution empowers people to prepare and adapt, ultimately fostering a safer environment in an increasingly technology-dependent world.
 # Final video:
