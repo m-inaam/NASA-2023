@@ -2,6 +2,7 @@
 Official Submission of Team "ReconXploration:" for NASA Space Apps Challenge 2023 participating in the challenge “Magnetic Reconnection”
 # Introduction:
 Magnetic reconnection is a process that can occur almost anywhere that a magnetic field is found. In a reconnection event, the magnetic field lines are squeezed together somehow and spontaneously reconfigure themselves. This releases energy. When it occurs near the surface of the Sun, such an event powers giant solar flares that can release thousands of millions of tonnes of electrically charged particles into space.
+![carrington](blob:https://web.whatsapp.com/b3d7a521-94e2-4f42-a54b-ea2e74f74003)
 # Problem statement/solution:
 Magnetic reconnection, a natural process in space physics, is not inherently bad but can have adverse effects. It can trigger solar flares and geomagnetic storms, impacting communication systems, power grids, and satellites. Additionally, it poses potential radiation risks to astronauts during space travel.
 ##  What problem does it solve? 
