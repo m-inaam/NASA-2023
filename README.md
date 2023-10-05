@@ -18,4 +18,3 @@ It will facilitate informed decision-making, improve space weather forecasting, 
 Our solution empowers people to prepare and adapt, ultimately fostering a safer environment in an increasingly technology-dependent world.
 # Final video:
 # Our amazing team:
-[![Figma Banner](https://www.figma.com/file/VS47qb5Nc57dhDf9wqP57r/space-apps-challenge-Banner?type=design&node-id=0%3A1&mode=design&t=Bqw5CxlaSQgtmdfM-1)](https://www.figma.com/file/VS47qb5Nc57dhDf9wqP57r/space-apps-challenge-Banner?type=design&node-id=0%3A1&mode=design&t=Bqw5CxlaSQgtmdfM-1)
