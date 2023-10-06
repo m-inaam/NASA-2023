@@ -1,0 +1,14 @@
+// RNN Model
+digraph {
+	input [label="Input
+(2, 1)"]
+	lstm1 [label="LSTM (50, relu)
+(return sequences=True)"]
+	lstm2 [label="LSTM (50, relu)"]
+	dropout [label="Dropout (0.2)"]
+	dense [label="Dense (2)"]
+	input -> lstm1
+	lstm1 -> lstm2
+	lstm2 -> dropout
+	dropout -> dense
+}
