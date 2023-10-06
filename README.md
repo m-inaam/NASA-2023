@@ -29,4 +29,4 @@ It will facilitate informed decision-making, improve space weather forecasting, 
 Our solution empowers people to prepare and adapt, ultimately fostering a safer environment in an increasingly technology-dependent world.
 # Final video:
 # Our amazing team:
-![Team](https://drive.google.com/file/d/1dtC68bccq-sG34XYyOlO7O9-6LjdrZx9/view?usp=sharing)
+![Team](./team.png)
