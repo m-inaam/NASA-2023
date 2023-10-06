@@ -28,13 +28,13 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 # Empowering Sustainable Development: Bridging Solar Wind Insights with SDG 17 Partnerships:
 
-## SDG 9: Industry, Innovation, and Infrastructure:
-
-Creating innovative technologies and infrastructure to analyze space data and understand solar wind impacts aligns with SDG 9, which aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.
-
 ## SDG 7: Affordable and Clean Energy:
 
 Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.
+
+## SDG 9: Industry, Innovation, and Infrastructure:
+
+Creating innovative technologies and infrastructure to analyze space data and understand solar wind impacts aligns with SDG 9, which aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.
 
 ## SDG 13: Climate Action:
 
