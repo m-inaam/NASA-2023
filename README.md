@@ -26,38 +26,38 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 ## Idea Description:
 
-# Empowering Sustainable Development: Bridging Solar Wind Insights with SDG 17 Partnerships:
+## Empowering Sustainable Development: Bridging Solar Wind Insights with SDG 17 Partnerships:
 
-## SDG 7: Affordable and Clean Energy:
+### SDG 7: Affordable and Clean Energy:
 
 Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.
 
-## SDG 9: Industry, Innovation, and Infrastructure:
+### SDG 9: Industry, Innovation, and Infrastructure:
 
 Creating innovative technologies and infrastructure to analyze space data and understand solar wind impacts aligns with SDG 9, which aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.
 
-## SDG 13: Climate Action:
+### SDG 13: Climate Action:
 
 Studying the solar wind and its effects on the space environment is crucial for understanding climate patterns and potential climate change impacts. This aligns with SDG 13, which focuses on taking urgent action to combat climate change and its impacts.
 
-## SDG 17: Partnerships for the Goals:
+### SDG 17: Partnerships for the Goals:
 
 Collaboration between space agencies, researchers, and technology developers to create the mentioned program exemplifies partnerships that contribute to the achievement of multiple SDGs. SDG 17 emphasizes the importance of partnerships for sustainable development.
 
-# Into The Future:
+## Into The Future:
 
-## What will your idea change?
+### What will your idea change?
 
 It will facilitate informed decision-making, improve space weather forecasting, and contribute to a safer and more prepared approach to potential space weather impacts.
 
 ![Magnetic Reconnection](./b-field.jpg)
 
-## What can your solution do for the people?
+### What can your solution do for the people?
 
 Our solution empowers people to prepare and adapt, ultimately fostering a safer environment in an increasingly technology-dependent world.
 
-# Final video:
+## Final video:
 
-# Our amazing team:
+## Our amazing team:
 
 ![Team](./team.png)
