@@ -1,30 +1,30 @@
-# <img src="./logo.jpg" alt="Logo" width="75" height="75"> <p align="center"><b>ReconXploration: Unraveling Magnetic Reconnection</b></p>
+# <img src="./logo.jpg" alt="Logo" width="100" height="100"> <p align="center"><b>ReconXploration: Unraveling Magnetic Reconnection</b></p>10
 
 Official Submission of Team "ReconXploration:" for NASA Space Apps Challenge 2023 participating in the challenge “Magnetic Reconnection”
 
-# Introduction:
+## Introduction:
 
 Magnetic reconnection is a process that can occur almost anywhere that a magnetic field is found. In a reconnection event, the magnetic field lines are squeezed together somehow and spontaneously reconfigure themselves. This releases energy. When it occurs near the surface of the Sun, such an event powers giant solar flares that can release thousands of millions of tonnes of electrically charged particles into space.
 
 ![Magnetic Reconnection](./idea.jpg)
 
-# Problem statement/solution:
+## Problem statement/solution:
 
 Magnetic reconnection, a natural process in space physics, is not inherently bad but can have adverse effects. It can trigger solar flares and geomagnetic storms, impacting communication systems, power grids, and satellites. Additionally, it poses potential radiation risks to astronauts during space travel.
 
-##  What problem does it solve?
+###  What problem does it solve?
 
 The program addresses the challenge of analyzing complex interplanetary magnetic field (IMF) data from various missions to determine the frequency and impact of magnetic reconnection events, which is critical for understanding solar wind's influence on our space environment. It simplifies this analysis, providing valuable insights into space weather effects for both researchers and the general public.
 
-##  What do people gain?
+###  What do people gain?
 
 Users gain a deeper understanding of space weather and its potential effects on technology and daily life, empowering them to make informed decisions and preparations. Scientists benefit from efficient analysis of magnetic reconnection events, enhancing their research on solar wind interactions and aiding in space weather forecasting.
 
-## Where is the opportunity?
+### Where is the opportunity?
 
 The opportunity lies in developing an accessible and robust computer program that translates complex data analysis into actionable insights about magnetic reconnection, fostering an increased understanding of space weather's effects on both the general public and scientific researchers.
 
-# Idea Description:
+## Idea Description:
 
 # Empowering Sustainable Development: Bridging Solar Wind Insights with SDG 17 Partnerships:
 
