@@ -26,7 +26,7 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 ## Idea Description:
 
-## Empowering Sustainable Development: Bridging Solar Wind Insights with SDG 17 Partnerships:
+## Targeted SDGs:
 
 ### SDG 7: Affordable and Clean Energy:
 
