@@ -30,25 +30,25 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 ### SDG 7: Affordable and Clean Energy:
 
-# <img src="./SDG7.gif" alt="Logo" width="100" height="100">
+<img src="./SDG7.gif" alt="Logo" width="100" height="100">
 
 Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.
 
 ### SDG 9: Industry, Innovation, and Infrastructure:
 
-# <img src="./SDG9.gif" alt="Logo" width="100" height="100">
+<img src="./SDG9.gif" alt="Logo" width="100" height="100">
 
 Creating innovative technologies and infrastructure to analyze space data and understand solar wind impacts aligns with SDG 9, which aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation.
 
 ### SDG 13: Climate Action:
 
-# <img src="./SDG13.gif" alt="Logo" width="100" height="100">
+<img src="./SDG13.gif" alt="Logo" width="100" height="100">
 
 Studying the solar wind and its effects on the space environment is crucial for understanding climate patterns and potential climate change impacts. This aligns with SDG 13, which focuses on taking urgent action to combat climate change and its impacts.
 
 ### SDG 17: Partnerships for the Goals:
 
-# <img src="./SDG17.gif" alt="Logo" width="100" height="100">
+<img src="./SDG17.gif" alt="Logo" width="100" height="100">
 
 Collaboration between space agencies, researchers, and technology developers to create the mentioned program exemplifies partnerships that contribute to the achievement of multiple SDGs. SDG 17 emphasizes the importance of partnerships for sustainable development.
 
