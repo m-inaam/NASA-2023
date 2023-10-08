@@ -62,10 +62,10 @@ It will facilitate informed decision-making, improve space weather forecasting, 
 Our solution empowers people to prepare and adapt, ultimately fostering a safer environment in an increasingly technology-dependent world.
 
 ## Research Document
-[Look at our Reseach Document, please!]()
+[Look at our Research Document, please!](https://docs.google.com/document/d/1_ewDzDcnAc8N9gAm15DYi0qoPa6RER9-76BFv8OcOaU/edit?usp=sharing)
 
 ## Presentation Slides
-[Our presentation slides, please !]()
+[Our presentation slides, please !](https://www.canva.com/design/DAFwJ9aHDQ4/DOlRCSOAgig9s_OOQrHtaw/edit?utm_content=DAFwJ9aHDQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Final Video
 [*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*]()
