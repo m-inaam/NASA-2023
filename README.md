@@ -89,8 +89,12 @@ Our solution empowers people to prepare and adapt, ultimately fostering a safer 
 ## Presentation Slides
 [Look at our presentation slides, please !](https://www.canva.com/design/DAFwJ9aHDQ4/DOlRCSOAgig9s_OOQrHtaw/edit?utm_content=DAFwJ9aHDQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## website 
+
+[Look at our website, please !](https://reconxploration.co/index.html)
+
 ## Final Video
-[*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*]()
+[*To be a champion, compete; to be a great champion, compete with the best; but to be the greatest champion, compete with yourself*](https://www.youtube.com/watch?feature=shared&v=Blopp24t1p0)
 
 ## Our amazing team:
 
