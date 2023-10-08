@@ -28,6 +28,7 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 ## Targeted SDGs:
 
+# <img src="./SDG7 logo.gif" alt="Logo" width="90" height="90"> <p align="center"><b>ReconXploration: Unraveling Magnetic Reconnection</b></p>
 ### SDG 7: Affordable and Clean Energy:
 
 Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.
