@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speed and Field Magnitude Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            max-width: 400px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #result {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Speed and Field Magnitude Prediction</h1>
+        <form id="prediction-form">
+            <label for="year">Year (YYYY):</label>
+            <input type="text" id="year" name="year" placeholder="Enter year">
+            
+            <label for="proton_density">Proton Density (n/cc):</label>
+            <input type="text" id="proton_density" name="proton_density" placeholder="Enter proton density">
+            
+            <label for="temperature">Temperature (K):</label>
+            <input type="text" id="temperature" name="temperature" placeholder="Enter temperature">
+            
+            <button type="submit">Predict</button>
+        </form>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const form = document.getElementById("prediction-form");
+            const resultDiv = document.getElementById("result");
+
+            form.addEventListener("submit", function (e) {
+                e.preventDefault();
+
+                const year = document.getElementById("year").value;
+                const protonDensity = document.getElementById("proton_density").value;
+                const temperature = document.getElementById("temperature").value;
+
+                const inputData = [parseFloat(year), parseFloat(protonDensity), parseFloat(temperature)];
+
+                if (isNaN(inputData[0]) || isNaN(inputData[1]) || isNaN(inputData[2])) {
+                    resultDiv.innerHTML = `<p>Error: Please enter valid numeric values for all inputs.</p>`;
+                    return;
+                }
+
+                const requestData = { input_data: inputData };
+
+                fetch("/predict", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(requestData)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    resultDiv.innerHTML = `
+                        <p>Predicted Speed: ${data.predicted_speed.toFixed(2)}</p>
+                        <p>Predicted Field Magnitude: ${data.predicted_field_magnitude.toFixed(2)}</p>
+                    `;
+                })
+                .catch(error => {
+                    resultDiv.innerHTML = `<p>Error: ${error.message}</p>`;
+                });
+            });
+        });
+    </script>
+</body>
+</html>
