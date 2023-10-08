@@ -24,6 +24,8 @@ Users gain a deeper understanding of space weather and its potential effects on 
 
 The opportunity lies in developing an accessible and robust computer program that translates complex data analysis into actionable insights about magnetic reconnection, fostering an increased understanding of space weather's effects on both the general public and scientific researchers.
 
+<img src="./gif.gif" alt="Logo" width="200" height="200">
+
 ## Our working solution:
 
 ## Targeted SDGs:
