@@ -45,6 +45,10 @@ It only requires speed which is calculated from the OMNI data to calculate the p
 
 ![AI Modal](./ai-modal.png)
 
+### Prototype in action
+
+![Prototype]()
+
 ## Targeted SDGs:
 
 ### SDG 7: Affordable and Clean Energy
