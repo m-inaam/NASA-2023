@@ -32,9 +32,8 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 <div style="display: flex; align-items: center;">
   <img src="./SDG7.gif" alt="Logo" width="100" height="100" style="margin-right: 20px;">
-  <p>Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.</p>
+  <p style="flex: 1;">Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.</p>
 </div>
-
 
 ### SDG 9: Industry, Innovation, and Infrastructure:
 <img src="./SDG9.gif" alt="Logo" width="100" height="100">
