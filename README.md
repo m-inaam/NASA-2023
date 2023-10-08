@@ -1,4 +1,4 @@
-# <img src="./logo.jpg" alt="Logo" width="90" height="90"> <p align="center"><b>ReconXploration: Unraveling Magnetic Reconnection</b></p>
+# <img src="./TEAM.logo.png" alt="Logo" width="90" height="90"> <p align="center"><b>ReconXploration: Unraveling Magnetic Reconnection</b></p>
 
 Official Submission of Team "ReconXploration:" for NASA Space Apps Challenge 2023 participating in the challenge “Magnetic Reconnection”
 
