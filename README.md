@@ -47,7 +47,8 @@ It only requires speed which is calculated from the OMNI data to calculate the p
 
 ### Prototype in action
 
-[![Prototype](./team.png)](https://www.youtube.com/watch?v=QcWbGMnhHLs)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/QcWbGMnhHLs?si=ytTfZK-3QAhLqr4q)
+
 
 ## Targeted SDGs:
 
