@@ -28,7 +28,7 @@ The opportunity lies in developing an accessible and robust computer program tha
 
 ## Targeted SDGs:
 
-# <img src="./SDG7 logo.gif" alt="Logo" width="100" height="100">
+# <img src="./SDG7.gif" alt="Logo" width="100" height="100">
 ### SDG 7: Affordable and Clean Energy:
 
 Understanding solar wind impacts and their correlation with magnetic field data contributes to the advancement of clean energy technologies and aligns with SDG 7, which seeks to ensure access to affordable, reliable, sustainable, and modern energy for all.
